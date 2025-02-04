@@ -7,7 +7,8 @@ North Gong Hotel - Wollongong, NSw, Australia<br />
  - [Raw Text](https://github.com/bh679/Brennans-AI-Murder-Mystery-Party-Game/blob/main/Games/Death%20Among%20the%20Clouds%3A%20The%20Amnesia%20Airship%20Murder.txt)
 
 
-## **Original Prompts & Responses**
+
+## **Attempt to have ChatGPT FOrmat Original Prompts & Responses**
 
 ### **User Prompt 1:**
 Generate 12 players.  
