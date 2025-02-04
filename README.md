@@ -9,6 +9,10 @@ Use Ai to run a Murder Mystery Party game with your friends. 3-20 people.<br />
 4 - All enter their actions<br />
 5 - Send & repeat until you are ready to have your final turn.<br />
 
+ - Game is played with one phone paassed around.
+ - Prompting is often best done by fastest typer, asking players what they do.
+ - Typer is best with small understanding of DM'ing.
+
 
 ## Live instances
  - [Play in Chat GPT Custom GPT](https://chatgpt.com/g/g-67a22045d62c8191ac14273d0f2f47bb-brennans-ai-murder-mystery-party-game)
