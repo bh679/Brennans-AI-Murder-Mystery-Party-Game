@@ -1,5 +1,6 @@
 # Brennans AI Murder Mystery Party Game
 Use Ai to run a Murder Mystery Party game with your friends. 3-20 people.
+<img width="512" alt="Image" src="https://github.com/user-attachments/assets/fd224034-5d43-4fd7-a195-edce01417784" />
 
 ## Live instances
  - [Play in Chat GPT Custom GPT](https://chatgpt.com/g/g-67a22045d62c8191ac14273d0f2f47bb-brennans-ai-murder-mystery-party-game)
