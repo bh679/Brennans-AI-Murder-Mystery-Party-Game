@@ -11,7 +11,7 @@ Use Ai to run a Murder Mystery Party game with your friends. 3-20 people.<br />
 
  - Game is played with one phone paassed around.
  - Prompting is often best done by fastest typer, asking players what they do.
- - Typer is best with small understanding of DM'ing.
+ - Typer is best with a least a little understanding of DM'ing.
 
 
 ## Live instances
