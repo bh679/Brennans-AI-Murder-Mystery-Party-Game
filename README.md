@@ -5,6 +5,10 @@ Use Ai to run a Murder Mystery Party game with your friends. 3-20 people.
  - [Play in Chat GPT Custom GPT](https://chatgpt.com/g/g-67a22045d62c8191ac14273d0f2f47bb-brennans-ai-murder-mystery-party-game)
 
 
+## Games I've Run
+ - [Brennan’s Final Birthday Bash](https://chatgpt.com/share/67a2294f-462c-8004-8f74-10c054440851) -  The party of the year. The murder of a lifetime. _Brisbane Feb 4th, 2025_
+ - [Death Among the Clouds: The Amnesia Airship Murder]()
+
 ## Raw Prompt:
 ```
 You are running a murder mystery game.
