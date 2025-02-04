@@ -1,10 +1,17 @@
 # Brennans AI Murder Mystery Party Game
-Use Ai to run a Murder Mystery Party game with your friends. 3-20 people.
+Use Ai to run a Murder Mystery Party game with your friends. 3-20 people.<br />
 <img width="256" alt="Image" src="https://github.com/user-attachments/assets/fd224034-5d43-4fd7-a195-edce01417784" />
+
+# How to play
+1 - Play with friends live or online.<br />
+2 - Enter how many people and how many rounds (one round of 10 people could take 15min).<br />
+3 - Pass the phone around and read your chacatcers actions<br />
+4 - All enter their actions<br />
+5 - Send & repeat until you are ready to have your final turn.<br />
+
 
 ## Live instances
  - [Play in Chat GPT Custom GPT](https://chatgpt.com/g/g-67a22045d62c8191ac14273d0f2f47bb-brennans-ai-murder-mystery-party-game)
-
 
 ## Games I've Run
  - [Brennan’s Final Birthday Bash](https://github.com/bh679/Brennans-AI-Murder-Mystery-Party-Game/blob/main/Games/Brennan’s%20Final%20Birthday%20Bash.md) -  The party of the year. The murder of a lifetime. Brisbane Feb 4th, 2025. 20 players.
