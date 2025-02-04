@@ -6,8 +6,8 @@ Use Ai to run a Murder Mystery Party game with your friends. 3-20 people.
 
 
 ## Games I've Run
- - [Brennan’s Final Birthday Bash](https://chatgpt.com/share/67a2294f-462c-8004-8f74-10c054440851) -  The party of the year. The murder of a lifetime. _Brisbane Feb 4th, 2025_
- - [Death Among the Clouds: The Amnesia Airship Murder]()
+ - [Brennan’s Final Birthday Bash](https://chatgpt.com/share/67a2294f-462c-8004-8f74-10c054440851) -  The party of the year. The murder of a lifetime. Brisbane Feb 4th, 2025. 20 players.
+ - [Death Among the Clouds: The Amnesia Airship Murder](https://github.com/bh679/Brennans-AI-Murder-Mystery-Party-Game/blob/main/Games/Death%20Among%20the%20Clouds%3A%20The%20Amnesia%20Airship%20Murder.md) - The Intenvtion of the game, at a pub in Wollongong mid December 2024. 14 Players.
 
 ## Raw Prompt:
 ```
