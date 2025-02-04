@@ -1,4 +1,11 @@
 # Death Among the Clouds: The Amnesia Airship Murder
+First Ever Game<br />
+North Gong Hotel - Wollongong, NSw, Australia<br />
+2024-12-19<br />
+14 Players.<br />
+
+ - [Raw Text](https://github.com/bh679/Brennans-AI-Murder-Mystery-Party-Game/blob/main/Games/Death%20Among%20the%20Clouds%3A%20The%20Amnesia%20Airship%20Murder.txt)
+
 
 ## **Original Prompts & Responses**
 
