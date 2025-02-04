@@ -1,0 +1,34 @@
+name: Update README with prompt.md
+
+on:
+  push:
+    branches:
+      - main
+  schedule:
+    - cron: '0 * * * *'  # Runs every hour (adjust as needed)
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v3
+
+      - name: Update README
+        run: |
+          # Store existing README content before update
+          head -n 3 README.md > temp_readme.md
+          echo "" >> temp_readme.md
+          echo "## Prompt.md Contents" >> temp_readme.md
+          echo '```markdown' >> temp_readme.md
+          cat prompt.md >> temp_readme.md
+          echo '```' >> temp_readme.md
+          mv temp_readme.md README.md  # Replace README.md with updated version
+
+      - name: Commit and Push Changes
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git commit -m "Auto-update README with latest prompt.md" || echo "No changes to commit"
+          git push
