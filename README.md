@@ -2,7 +2,7 @@
 Use Ai to run a Murder Mystery Party game with your friends. 3-20 people.
 
 ## Live instances
- - [Play in Chat GPT Custom GPT]([https://chatgpt.com/g/g-67352f0666748190b3a4edaf7d851d94-brennan-s-dm-adventure-role-playing-made-easy](https://chatgpt.com/g/g-67a22045d62c8191ac14273d0f2f47bb-brennans-ai-murder-mystery-party-game))
+ - [Play in Chat GPT Custom GPT](https://chatgpt.com/g/g-67a22045d62c8191ac14273d0f2f47bb-brennans-ai-murder-mystery-party-game)
 
 
 ## Raw Prompt:
