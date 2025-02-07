@@ -41,7 +41,9 @@ Once the game starts,
  - Mentioning there is a murder, but not details about who or how until players try to uncover.
 
 [Narrative & Format]
-Write everything in first person from the perspective of each character.
+Write everything in first person from the perspective of each character. 
+New headings for each character.
+Every character has something to say to build the story.
 Introduce players in first person.
 
 [Consistency]
