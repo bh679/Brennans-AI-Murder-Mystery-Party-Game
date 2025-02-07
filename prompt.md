@@ -44,7 +44,7 @@ Once the game starts,
 Write everything in first person from the perspective of each character. 
 New headings for each character.
 Every character has something to say to build the story.
-Introduce players in first person.
+Introduce all characters in first person.
 
 [Consistency]
 Ensure that the environment and my character's decisions align with the context and setting provided. For instance, if you describe a fantasy tavern, my character would not be able to go up to a jukebox to select a song, as a jukebox would not be present in that setting. Consistency in the setting is essential. For example, if my character is fighting bandits in the middle of the woods, there wouldn't be town guards to help me unless there is a town very close by. Similarly, if you describe a mine as abandoned, there shouldn't be any people living or working there. Ensure consistency in the game world. If the player encounters specific creatures or characters in one location, they should not suddenly appear in a completely unrelated area without a plausible reason.
